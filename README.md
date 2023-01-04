@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Secwastaken</h1>
-<h3 align="center">Im </h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-at-computer-gifs&psig=AOvVaw1Y9cShcBYTu_rLJntY-Qvz&ust=1672926355131000&source=images&cd=vfe&ved=2ahUKEwiu06q6hq78AhUpg_0HHVlECzMQjRx6BAgAEAo">
+<h3 align="center">Ia a cybersecurity</h3>
+<img align="right" alt="Coding" width="400" src="https://s2.uupload.ir/files/image_processing20191129-26734-6lp0s5_pna3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="secwastaken" /> </p>
 
 <h3 align="left">Connect with me:</h3>
